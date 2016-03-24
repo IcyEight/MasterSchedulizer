@@ -4,4 +4,4 @@ If user has already created their plan of study, user can simply import it and m
 Program allows user to add, remove or move course while keeping track of requirements and availability 
 It also allows user configure and save plan of study on their computer and use it for other purposes.
 
-Program was developed using JAVA Object Oriented methodologies, Eclipse IDE, Bit-bucket Slack(Communication)
+Program was developed using JAVA Object Oriented methodologies, Eclipse IDE, bit-bucket and Slack
